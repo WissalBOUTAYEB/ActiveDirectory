@@ -6,3 +6,21 @@ Sécurisation des données
 Répartition des ressources
 
 L'Active Directory est un outil puissant et indispensable pour gérer de manière centralisée les utilisateurs, les ordinateurs et les ressources dans un réseau. Grâce à sa structure hiérarchique et à son système d'authentification robuste, il assure à la fois une gestion efficace des ressources et une sécurité renforcée dans les environnements professionnels.
+
+
+### 🔹 Objectifs du Projet : Configuration d’Active Directory
+
+![📚 Compréhension](https://img.shields.io/badge/📚-Comprendre_Active_Directory-blue?style=for-the-badge)  
+➡ Expliquer le concept et le rôle d'Active Directory dans un réseau.  
+
+![🖥️ Installation](https://img.shields.io/badge/🖥️-Installation_et_Configuration-orange?style=for-the-badge)  
+➡ Déploiement de Windows Server 2012 et configuration d'AD.  
+
+![👥 Gestion](https://img.shields.io/badge/👥-Gestion_Utilisateurs_&_Ressources-green?style=for-the-badge)  
+➡ Création des utilisateurs, des groupes et gestion des ressources.  
+
+![🔒 Sécurité](https://img.shields.io/badge/🔒-Sécurisation_&_Administration-red?style=for-the-badge)  
+➡ Mise en place des stratégies de sécurité et des permissions.  
+
+![⚙️ Intégration](https://img.shields.io/badge/⚙️-Intégration_avec_vCenter-purple?style=for-the-badge)  
+➡ Préparation à la gestion des accès via VMware vCenter.  
