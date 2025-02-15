@@ -22,6 +22,7 @@ L'Active Directory est un outil puissant et indispensable pour gérer de manièr
   Attribution d’une adresse IP statique et configuration du serveur DNS pour assurer la connectivité réseau.
   Ajout du rôle Active Directory Domain Services (AD DS) et promotion du serveur en contrôleur de domaine (DC).
   Vérification de l’installation à travers les outils intégrés comme Server Manager et Group Policy Management.
+  
 ![👥 Gestion](https://img.shields.io/badge/👥-Gestion_Utilisateurs_&_Ressources-green?style=for-the-badge)  
 ➡ Création des utilisateurs, des groupes et gestion des ressources.  
 
