@@ -11,10 +11,10 @@ L'Active Directory est un outil puissant et indispensable pour gérer de manièr
 ### 🔹 Objectifs du Projet : Configuration d’Active Directory
 
 ![📚 Compréhension](https://img.shields.io/badge/📚-Comprendre_Active_Directory-blue?style=for-the-badge)  
-➡Définition d’Active Directory (AD) en tant que service d’annuaire permettant la gestion centralisée des utilisateurs, groupes et ressources.
-➡ Présentation des avantages d’AD, notamment la simplification de l’administration, la sécurisation des accès, et l’authentification centralisée.
-➡ Explication du fonctionnement hiérarchique de l’AD : Domaines, Forêts, Unités Organisationnelles (OU).
-➡ Mise en avant du rôle des contrôleurs de domaine (DC) pour la gestion des politiques et la réplication des données.
+   Définition d’Active Directory (AD) en tant que service d’annuaire permettant la gestion centralisée des utilisateurs, groupes et ressources.
+   Présentation des avantages d’AD, notamment la simplification de l’administration, la sécurisation des accès, et l’authentification centralisée.
+   Explication du fonctionnement hiérarchique de l’AD : Domaines, Forêts, Unités Organisationnelles (OU).
+   Mise en avant du rôle des contrôleurs de domaine (DC) pour la gestion des politiques et la réplication des données.
 
 ![🖥️ Installation](https://img.shields.io/badge/🖥️-Installation_et_Configuration-orange?style=for-the-badge)  
 ➡ Déploiement de Windows Server 2012 et configuration d'AD.  
