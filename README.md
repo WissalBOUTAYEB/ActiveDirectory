@@ -25,9 +25,15 @@ L'Active Directory est un outil puissant et indispensable pour gérer de manièr
   
 ![👥 Gestion](https://img.shields.io/badge/👥-Gestion_Utilisateurs_&_Ressources-green?style=for-the-badge)  
 ➡ Création des utilisateurs, des groupes et gestion des ressources.  
+   Ajout et configuration des comptes utilisateurs dans l’Active Directory.
+   Mise en place des groupes de sécurité pour gérer les accès et permissions des utilisateurs.
+   Gestion des profils itinérants pour permettre aux utilisateurs d’accéder à leurs données depuis n'importe quel poste du domaine.
+   Ajout et administration des ressources partagées comme les dossiers, imprimantes et serveurs accessibles via AD
 
 ![🔒 Sécurité](https://img.shields.io/badge/🔒-Sécurisation_&_Administration-red?style=for-the-badge)  
 ➡ Mise en place des stratégies de sécurité et des permissions.  
+   Déploiement des stratégies de groupe (GPO) pour restreindre les accès, configurer les bureaux utilisateurs, et appliquer des politiques de sécurité.
+  Configuration de l’authentification et de l’autorisation pour garantir un accès sécurisé aux données de l’entreprise.
+  Implémentation des permissions NTFS pour sécuriser l’accès aux fichiers et ressources partagées.
+  Mise en place de l’audit et surveillance pour suivre les connexions, les modifications d’accès et prévenir les escalades de privilèges.
 
-![⚙️ Intégration](https://img.shields.io/badge/⚙️-Intégration_avec_vCenter-purple?style=for-the-badge)  
-➡ Préparation à la gestion des accès via VMware vCenter.  
