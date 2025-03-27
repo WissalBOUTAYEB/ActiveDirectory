@@ -1,39 +1,56 @@
-L'Active Directory (AD) est un service développé par Microsoft pour la gestion des ressources informatiques dans un réseau. Il permet aux administrateurs de gérer et de sécuriser les ressources réseau, d’organiser les utilisateurs, les ordinateurs et d’autres objets dans un domaine. Il est intégré dans les systèmes d’exploitation Windows Server et constitue un outil essentiel dans les environnements d'entreprise.
-Rôle de l'Active Directory
-Gestion centralisée des ressources
-Contrôle d'accès
-Sécurisation des données
-Répartition des ressources
+Active Directory (AD) is a service developed by Microsoft for managing IT resources within a network. It allows administrators to manage and secure network resources, organize users, computers, and other objects within a domain. It is integrated into Windows Server operating systems and is an essential tool in enterprise environments.
 
-L'Active Directory est un outil puissant et indispensable pour gérer de manière centralisée les utilisateurs, les ordinateurs et les ressources dans un réseau. Grâce à sa structure hiérarchique et à son système d'authentification robuste, il assure à la fois une gestion efficace des ressources et une sécurité renforcée dans les environnements professionnels.
+Role of Active Directory
+
+Centralized resource management
+
+Access control
+
+Data security
+
+Resource allocation
+
+Active Directory is a powerful and indispensable tool for centrally managing users, computers, and resources within a network. With its hierarchical structure and robust authentication system, it ensures both efficient resource management and enhanced security in professional environments.
+
+🔹 Project Objectives: Active Directory Configuration
 
 
-### 🔹 Objectifs du Projet : Configuration d’Active Directory
 
-![📚 Compréhension](https://img.shields.io/badge/📚-Comprendre_Active_Directory-blue?style=for-the-badge)  
-   Définition d’Active Directory (AD) en tant que service d’annuaire permettant la gestion centralisée des utilisateurs, groupes et ressources.
-   Présentation des avantages d’AD, notamment la simplification de l’administration, la sécurisation des accès, et l’authentification centralisée.
-   Explication du fonctionnement hiérarchique de l’AD : Domaines, Forêts, Unités Organisationnelles (OU).
-   Mise en avant du rôle des contrôleurs de domaine (DC) pour la gestion des politiques et la réplication des données.
+Defining Active Directory (AD) as a directory service enabling centralized management of users, groups, and resources.
 
-![🖥️ Installation](https://img.shields.io/badge/🖥️-Installation_et_Configuration-orange?style=for-the-badge)  
-➡ Déploiement de Windows Server 2012 et configuration d'AD.  
- Installation de Windows Server 2012 sur VMware Workstation avec configuration matérielle minimale (RAM, processeurs, espace disque).
-  Attribution d’une adresse IP statique et configuration du serveur DNS pour assurer la connectivité réseau.
-  Ajout du rôle Active Directory Domain Services (AD DS) et promotion du serveur en contrôleur de domaine (DC).
-  Vérification de l’installation à travers les outils intégrés comme Server Manager et Group Policy Management.
-  
-![👥 Gestion](https://img.shields.io/badge/👥-Gestion_Utilisateurs_&_Ressources-green?style=for-the-badge)  
-➡ Création des utilisateurs, des groupes et gestion des ressources.  
-   Ajout et configuration des comptes utilisateurs dans l’Active Directory.
-   Mise en place des groupes de sécurité pour gérer les accès et permissions des utilisateurs.
-   Gestion des profils itinérants pour permettre aux utilisateurs d’accéder à leurs données depuis n'importe quel poste du domaine.
-   Ajout et administration des ressources partagées comme les dossiers, imprimantes et serveurs accessibles via AD
+Presenting the advantages of AD, including simplified administration, access security, and centralized authentication.
 
-![🔒 Sécurité](https://img.shields.io/badge/🔒-Sécurisation_&_Administration-red?style=for-the-badge)  
-➡ Mise en place des stratégies de sécurité et des permissions.  
-   Déploiement des stratégies de groupe (GPO) pour restreindre les accès, configurer les bureaux utilisateurs, et appliquer des politiques de sécurité.
-  Configuration de l’authentification et de l’autorisation pour garantir un accès sécurisé aux données de l’entreprise.
-  Implémentation des permissions NTFS pour sécuriser l’accès aux fichiers et ressources partagées.
-  Mise en place de l’audit et surveillance pour suivre les connexions, les modifications d’accès et prévenir les escalades de privilèges.
+Explaining the hierarchical structure of AD: Domains, Forests, Organizational Units (OUs).
+
+Highlighting the role of Domain Controllers (DCs) in policy management and data replication.
+
+➡ Deploying Windows Server 2012 and configuring AD.
+
+Installing Windows Server 2012 on VMware Workstation with minimal hardware configuration (RAM, processors, disk space).
+
+Assigning a static IP address and configuring the DNS server to ensure network connectivity.
+
+Adding the Active Directory Domain Services (AD DS) role and promoting the server as a Domain Controller (DC).
+
+Verifying installation through built-in tools like Server Manager and Group Policy Management.
+
+➡ Creating users, groups, and managing resources.
+
+Adding and configuring user accounts in Active Directory.
+
+Implementing security groups to manage user access and permissions.
+
+Managing roaming profiles to allow users to access their data from any workstation within the domain.
+
+Adding and administering shared resources such as folders, printers, and servers accessible via AD.
+
+➡ Implementing security policies and permissions.
+
+Deploying Group Policy Objects (GPOs) to restrict access, configure user desktops, and enforce security policies.
+
+Configuring authentication and authorization to ensure secure access to company data.
+
+Implementing NTFS permissions to secure access to files and shared resources.
+
+Setting up auditing and monitoring to track logins, access modifications, and prevent privilege escalations.
 
